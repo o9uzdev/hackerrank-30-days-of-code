@@ -1,6 +1,6 @@
 # Day 1: Data Types
 
-https://www.hackerrank.com/challenges/30-data-types/tutorial
+https://www.hackerrank.com/challenges/30-data-types
 
 ```java
 import java.io.*;
